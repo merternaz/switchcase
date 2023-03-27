@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\switchcase\bin\Debug\net7.0\switchcase.exe
+C:\Users\MONSTER\GitProject\switchcase\bin\Debug\net7.0\switchcase.deps.json
+C:\Users\MONSTER\GitProject\switchcase\bin\Debug\net7.0\switchcase.runtimeconfig.json
+C:\Users\MONSTER\GitProject\switchcase\bin\Debug\net7.0\switchcase.dll
+C:\Users\MONSTER\GitProject\switchcase\bin\Debug\net7.0\switchcase.pdb
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.dll
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\refint\switchcase.dll
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.pdb
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\switchcase.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\switchcase\obj\Debug\net7.0\ref\switchcase.dll
